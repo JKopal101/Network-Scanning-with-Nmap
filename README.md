@@ -56,6 +56,12 @@ Nmap is a scanner used for determining ports and certain characteristics on a ne
 #### Host Discovery Command
 ```bash
 nmap -sn 192.168.1.83
+
+![Nmap - metasploitable ports, sn host check](https://github.com/user-attachments/assets/4bc6caec-719e-4a7d-b20d-0f9eb92e1370)
+![Uploading Nmap - metasploitable ports, sn host check.png…]()
+
+
+
 ```
 
 #### Basic Port Scan
