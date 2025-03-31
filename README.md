@@ -136,7 +136,3 @@ This project provided valuable hands-on experience with Nmap and its various sca
 - [Nmap Documentation](https://nmap.org/docs.html)
 - [Kali Linux](https://www.kali.org)
 - [OWASP Network Security Testing Guide](https://owasp.org/www-project-network-security-testing-guide/)
-
----
-
-Let me know if you'd like this saved as a `.md` file or added to a GitHub project or report template!
